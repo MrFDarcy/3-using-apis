@@ -1,0 +1,26 @@
+.search-bar-box {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+.search-bar-box form {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  height: 40px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 0 10px;
+  margin-bottom: 10px;
+  font-size: larger;
+}
+
+label {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
